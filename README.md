@@ -1,5 +1,7 @@
-# Test_task
+# Test assignment spark
 
+### Task
+``` 
 Написать spark приложение, которое в локальном режиме выполняет следующее:
 По имеющимся данным о рейтингах книг посчитать агрегированную статистику по ним.
 
@@ -14,5 +16,16 @@
 2 - 3
 3 - 4
 4 - 5
+```
 
-# Solution
+## Solution
+### Prerequisites
+JAVA is required for the project, find verbose guides below : 
+
+windows : https://phoenixnap.com/kb/install-java-windows
+
+unix    : https://phoenixnap.com/kb/how-to-install-java-ubuntu
+
+## Run application
+1) pip install -r requirements.txt
+2) python solution.py
