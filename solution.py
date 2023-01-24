@@ -4,7 +4,6 @@ from pyspark.sql.functions import (
     col,
     avg,
     count,
-    when,
 )
 from pyspark.sql.types import (
     StructType,
